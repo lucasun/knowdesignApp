@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[151],{4132:function(e,t){e.exports={content:["article",["h2","何时使用"],["p","用于快速生成响应式、栅格、自适应等页面布局"]],meta:{category:"业务组件",type:"布局",cols:1,title:"Container",subtitle:"布局组件",filename:"components/extend/container/index.md"},toc:["ul",["li",["a",{className:"bisheng-toc-h2",href:"#何时使用",title:"何时使用"},"何时使用"]]]}}}]);

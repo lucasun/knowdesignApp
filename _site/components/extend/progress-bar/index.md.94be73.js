@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[185],{4166:function(e,t){e.exports={content:["article",["h2","何时使用"],["p","页面加载时，在页面顶部显示进度条"]],meta:{category:"业务组件",type:"其他",title:"ProgressBar",subtitle:"顶部进度条",filename:"components/extend/progress-bar/index.md"},toc:["ul",["li",["a",{className:"bisheng-toc-h2",href:"#何时使用",title:"何时使用"},"何时使用"]]]}}}]);
